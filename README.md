@@ -9,3 +9,5 @@ Unlike a traditional React app where the entire application is loaded and render
 ### Pages folder
 
 When you want to edit the page, then go to the pages folder, there will be index.js and that's going to be our first page
+
+### Code splitting and prefetching
