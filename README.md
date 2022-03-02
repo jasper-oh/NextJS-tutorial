@@ -11,3 +11,5 @@ Unlike a traditional React app where the entire application is loaded and render
 When you want to edit the page, then go to the pages folder, there will be index.js and that's going to be our first page
 
 ### Code splitting and prefetching
+
+Next.js does code splitting automatically, so each page only loads what's necessary for that page. That means when the homepage is rendered, the code for other pages is not served initially.
